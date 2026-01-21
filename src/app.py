@@ -75,7 +75,6 @@ activities = {
         "max_participants": 14,
         "participants": ["noah@mergington.edu", "isabella@mergington.edu"]
     },
-
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
